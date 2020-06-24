@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991356548817",
+    "firebase_url": "https://student-att-9a4b8.firebaseio.com",
+    "project_id": "student-att-9a4b8",
+    "storage_bucket": "student-att-9a4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991356548817:android:cc1e403660dc8af78a37f0",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991356548817-9pf15t0ako2e12ak390e7l33e73h1rd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqyvlfPKirKblwnIk2XWCg6uVfk0Mge0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991356548817-9pf15t0ako2e12ak390e7l33e73h1rd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
